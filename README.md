@@ -37,7 +37,7 @@ As final considerations:
   * You must stick to the Pyber color scheme (Gold, SkyBlue, and Coral) in producing your plot and pie charts.
   * When making your Bubble Plot, experiment with effects like `alpha`, `edgecolor`, and `linewidths`.
   * When making your Pie Chart, experiment with effects like `shadow`, `startangle`, and `explosion`.
-* See [Starter Workbook](Pyber/pyber_starter.ipynb) for a reference on expected format.
+
 
 
 ## Copyright
